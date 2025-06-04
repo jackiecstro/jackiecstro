@@ -4,9 +4,9 @@ Recent Graduate Statistician
 
 ### 🧠 Languages & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40"/>  
-<img src="https://img.icons8.com/color/48/000000/sas.png" alt="SAS" width="40"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0274B6?style=for-the-badge&logo=sas&logoColor=white)
 
 <!---
 jackiecstro/jackiecstro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
