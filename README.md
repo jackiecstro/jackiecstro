@@ -1,3 +1,8 @@
+Jackelyn Castro
+
+** 'Digital Craftsman (Recent Graduate Statistian)' **
+
+
 - Hello, my name is Jackelyn Castro
 - My pronouns are she/her
 - I'm interested in Statistics and studying the subject at the University of Virginia
