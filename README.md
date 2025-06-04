@@ -17,10 +17,9 @@ Recent Graduate Statistician
 
 ## 👋 About Me
 
-Hi, I’m **Jackelyn Castro** — a recent graduate from the **University of Virginia** with a Bachelors in **Applied Statistics** and a minor in **Sociology**.  
-I’m passionate about using data to understand complex social issues and help create more equitable, inclusive systems.
+Hi, I’m **Jackelyn Castro** — a recent graduate from the **University of Virginia** with a Bachelor's in **Applied Statistics** and a minor in **Sociology**. I’m passionate about using data to understand complex social issues and help create more equitable, inclusive systems.
 
-🔍 I love working on projects that combine:
+I enjoy working on projects that combine:
 - **Data science + social impact**
 - **Research + communication**
 - **Analytics + storytelling**
