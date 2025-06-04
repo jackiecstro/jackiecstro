@@ -15,24 +15,20 @@ Recent Graduate Statistician
 
 
 
-Hi, I’m Jackelyn Castro — a recent graduate from the University of Virginia with a B.S. in Applied Statistics and a minor in Sociology. I’m passionate about using data to understand complex social issues and help create more equitable, inclusive systems.
+## 👋 About Me
+
+Hi, I’m **Jackelyn Castro** — a recent graduate from the **University of Virginia** with a Bachelors in **Applied Statistics** and a minor in **Sociology**.  
+I’m passionate about using data to understand complex social issues and help create more equitable, inclusive systems.
 
 🔍 I love working on projects that combine:
+- **Data science + social impact**
+- **Research + communication**
+- **Analytics + storytelling**
 
-Data science + social impact
-
-Research + communication
-
-Analytics + storytelling
-
-
-My Career Interests are...
-
-Data analysis / research role
-
-Social science + policy analytics
-
-Public interest tech / mission-driven organizations
+## My Career Interests
+- Data analysis / research roles  
+- Social science + policy analytics  
+- Public interest tech / mission-driven organizations
 
 <!---
 jackiecstro/jackiecstro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
