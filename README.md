@@ -12,6 +12,28 @@ Recent Graduate Statistician
   <img src="https://img.shields.io/badge/Shiny-9932CC?style=for-the-badge&logo=rstudio&logoColor=white" alt="Shiny"/>
   <img src="https://img.shields.io/badge/Excel-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
+
+
+
+Hi, I’m Jackelyn Castro — a recent graduate from the University of Virginia with a B.S. in Applied Statistics and a minor in Sociology. I’m passionate about using data to understand complex social issues and help create more equitable, inclusive systems.
+
+🔍 I love working on projects that combine:
+
+Data science + social impact
+
+Research + communication
+
+Analytics + storytelling
+
+
+My Career Interests are...
+
+Data analysis / research role
+
+Social science + policy analytics
+
+Public interest tech / mission-driven organizations
+
 <!---
 jackiecstro/jackiecstro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
