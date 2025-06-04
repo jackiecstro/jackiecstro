@@ -1,6 +1,6 @@
 ### **Jackelyn Castro** (Pronouns: She/Her)  
-### **University of Virginia '25**  
-### Recent Statistician Graduate   
+#### **University of Virginia '25**  
+#### Recent Statistician Graduate   
 
 ### Languages & Tools
 
